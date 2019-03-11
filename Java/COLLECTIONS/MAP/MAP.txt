@@ -1,0 +1,9 @@
+                                            
+											MAP
+											
+1.	If we want to represent a group of objects as KEY and VALUE pairs then we should go for MAP.
+
+2.	MAP interface is not child interface.
+
+3.  In MAP reading of and writing of elements are done using KEY.
+

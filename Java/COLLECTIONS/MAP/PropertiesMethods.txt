@@ -1,0 +1,18 @@
+                            Method                                                                   	Description
+							
+             1.    public void load(Reader r)	                                             loads data from the Reader object.
+				 
+             2.    public void load(InputStream is)	                                     loads data from the InputStream object
+				 
+             3.    public String getProperty(String key)                                  	returns value based on the key.
+				 
+             4.    public void setProperty(String key,String value)	                     sets the property in the properties object.
+				 
+             5.    public void store(Writer w, String comment)	                         writers the properties in the writer object.
+				 
+             6.    public void store(OutputStream os, String comment)	                     writes the properties in the OutputStream object.
+				 
+             7.    storeToXML(OutputStream os, String comment)	                         writers the properties in the writer object for generating xml document.
+				 
+             8.   public void storeToXML(Writer w, String comment, String encoding)	     writers the properties in the writer object for generating             
+                                                                             				xml document with specified encoding.
